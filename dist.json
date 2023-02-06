@@ -8,13 +8,13 @@
   },
   "servers": [
     {
-      "id": "pixelmon-1.12.2",
+      "id": "pixelmon-1.16.5",
       "name": "픽셀몬",
       "description": "",
       "icon": "https://media.discordapp.net/attachments/957320875194064926/1036150399704498186/aabdbb6588b83878.png",
       "version": "1.0.0",
       "address": "DOSE.KR:25565",
-      "minecraftVersion": "1.12.2",
+      "minecraftVersion": "1.16.5",
       "discord": {
         "shortId": "",
         "largeImageText": "",
@@ -24,22 +24,22 @@
       "autoconnect": true,
       "modules": [
         {
-          "id": "net.minecraftforge:forge:1.12.2-14.23.5.2860:universal",
+          "id": "net.minecraftforge:forge:1.16.5-36.2.39:universal",
           "name": "Minecraft Forge",
           "type": "ForgeHosted",
           "artifact": {
-            "size": 4466148,
-            "MD5": "2b5b6ccfa3c6ffcea9073d13d1ec5236",
+            "size": 17547153,
+            "MD5": "a57b9157ff3bb308208e79ef9e19187e",
             "url": "https://raw.githubusercontent.com/poris551/test/main/1.16.5-forge-36.2.39-universal.jar"
           },
           "subModules": [
             {
-              "id": "1.12.2-14.23.5.2860",
+              "id": "1.16.5-36.2.39",
               "name": "Minecraft Forge (version.json)",
               "type": "VersionManifest",
               "artifact": {
-                "size": 11799,
-                "MD5": "fdf65dd024faa5c9a51372e5fb975dfe",
+                "size": 13577,
+                "MD5": "2090bfafdec72f885ddf95300bd96714",
                 "url": "https://raw.githubusercontent.com/poris551/test/main/1.16.5-forge-36.2.39.json"
               }
             },
